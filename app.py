@@ -54,7 +54,7 @@ if st.button("Get Guidance"):
         st.warning("Please enter a question or problem to get guidance.")
 
 st.markdown("---")
-st.caption("🤖 Powered by Groq API & Streamlit | Developed for Mental Well-being")
+st.caption("🤖 Powered by Groq API & Streamlit | Developed for Mental Well-being | Created By Namit Chaudhari ❤️")
 
 
 
