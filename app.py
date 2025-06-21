@@ -23,9 +23,9 @@ client = Groq(
 
 st.sidebar.header("Select an AI Model",divider='rainbow')
 models = [
-    "qwen-2.5-32b", "qwen-2.5-coder-32b",
+    "gemma2-9b-it", "qwen-2.5-coder-32b",
     "deepseek-r1-distill-qwen-32b", "deepseek-r1-distill-llama-70b",
-    "gemma2-9b-it", "distil-whisper-large-v3-en",
+    "qwen-2.5-32b", "distil-whisper-large-v3-en",
     "llama-3.1-8b-instant", "llama-3.2-11b-vision-preview",
     "llama-3.2-1b-preview", "llama-3.2-3b-preview",
     "llama-3.2-90b-vision-preview", "llama-3.3-70b-specdec",
