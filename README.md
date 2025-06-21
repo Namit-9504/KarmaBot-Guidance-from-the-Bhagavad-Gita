@@ -1,5 +1,4 @@
 
-````markdown
 # KarmaBot: Guidance from the Bhagavad Gita
 
 **KarmaBot** is an AI-powered chatbot that offers mental wellness and life guidance rooted in the timeless wisdom of the **Bhagavad Gita**. Designed using modern LLMs, the bot helps users find clarity, peace, and purpose through spiritual insights during challenging times.
@@ -23,10 +22,11 @@
 
 ### 1. Clone the Repository
 
-```bash
+
 git clone https://github.com/Namit-9504/KarmaBot-Guidance-from-the-Bhagavad-Gita.git
 cd KarmaBot-Guidance-from-the-Bhagavad-Gita
-````
+
+
 
 ### 2. Install Dependencies
 
